@@ -1,4 +1,6 @@
 
+from django.core import settings
+
 WATERMARK_QUALITY = 85
 WATERMARK_OBSCURE_ORIGINAL = True
 WATERMARK_RANDOM_POSITION_ONCE = True
